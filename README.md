@@ -24,6 +24,8 @@ Sound: level and loudness meters, audio tracks and a mixer with EQ, dynamics and
 
 [Chopper-Update.exe](https://github.com/tarolys/chopper-dist/releases/download/latest/Chopper-Update.exe) updates an existing install in place and only replaces the files that changed.
 
+[Chopper-Portable.exe](https://github.com/tarolys/chopper-dist/releases/download/latest/Chopper-Portable.exe) is one file that runs Chopper with nothing installed. The first start unpacks it once, which takes about a minute.
+
 Windows may show a SmartScreen warning because the programs are not code signed. Choose More info, then Run anyway.
 
 Older versions stay on the [releases page](https://github.com/tarolys/chopper-dist/releases), one release per version.
