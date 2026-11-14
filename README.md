@@ -1,6 +1,7 @@
 # Chopper
 
 ![Latest](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftarolys%2Fchopper-dist%2Fmain%2Fbadges%2Flatest.json)
+![Tests](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftarolys%2Fchopper-dist%2Fmain%2Fbadges%2Ftests.json)
 ![Channel](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftarolys%2Fchopper-dist%2Fmain%2Fbadges%2Fchannel.json)
 ![Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftarolys%2Fchopper-dist%2Fmain%2Fbadges%2Fstatus.json)
 
@@ -32,4 +33,4 @@ Older versions stay on the [releases page](https://github.com/tarolys/chopper-di
 
 ## Notes
 
-Chopper is vibe coded with Claude Sonnet and Opus. Feedback and issues are welcome. There is no guarantee of stability or reliability, and the Status badge above says whether the latest build is stable or unstable. The Channel badge says whether it is a preview or a prod release. Use is covered by the [license](LICENSE).
+Chopper is vibe coded with Claude Sonnet and Opus. Feedback and issues are welcome. There is no guarantee of stability or reliability, and the Status badge above says whether the latest build is stable or unstable. The Tests badge says whether the automated tests of the latest build passed. The Channel badge says whether it is a preview or a prod release. Use is covered by the [license](LICENSE).
